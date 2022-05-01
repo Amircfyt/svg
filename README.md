@@ -13,3 +13,7 @@ This plugin allows you to control/interact with SVG elements within your HTML do
 Have a look at the plugin Web site, http://keith-wood.name/svg.html, for demonstrations of its abilities.
 
 For documentation on the functionality see http://keith-wood.name/svgRef.html.
+
+My Email: Cheraghi.2007@outlook.com
+
+Please follow me♡
